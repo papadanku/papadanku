@@ -1,4 +1,6 @@
 
+# Hey.
+
 Welcome to my GitHub profile. I am dedicated to open-source development, shader programming, and content creation. This is an overview of my work.
 
 ## Skills & Technologies
