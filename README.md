@@ -29,3 +29,9 @@ Welcome to my GitHub profile. I am dedicated to open-source development, shader 
 - [ReadShade](https://github.com/ReadShade/ReadShade): A documentation site for ReShade.
 - [PythonicEngine](https://github.com/papadanku/PythonicEngine): A Python 3D engine (OpenGL, PyGame, ModernGL, PyGLM).
 - [RealityShaders](https://github.com/realitymod/RealityShaders): Shader updates for Project Reality: Battlefield 2.
+
+### Works
+
+- [Hardware Blended Auto-Exposure on The GPU](https://papadanku.github.io/source/blog/gpu/autoexposure.html)
+- [Multi-Level Bilateral Upsampling on The GPU](https://papadanku.github.io/source/blog/gpu/bilateral.html)
+- [Lucas-Kanade Optical Flow on The GPU](https://papadanku.github.io/source/blog/gpu/opticalflow.html)
