@@ -19,11 +19,11 @@ Welcome to my GitHub profile. I am dedicated to open-source development, shader 
 
 ## Experience
 
-### Project Reality: Battlefield 2 (2021 - Present)
+### [Project Reality: Battlefield 2](https://www.realitymod.com/) (2021 - Present)
 
-- Contribute to the development, assist new contributors, and manage community updates.
-- Implement features in HLSL and Python.
-- Maintain related projects: RealityDocs, RealityShaders, and RealityUDL.
+- Contributed to the development, assist new contributors, and manage community updates.
+- Implemented features in HLSL and Python.
+- Maintained projects: RealityDocs, RealityShaders, and RealityUDL.
 
 ### Projects
 
