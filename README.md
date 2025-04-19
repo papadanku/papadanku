@@ -29,7 +29,7 @@ Welcome to my GitHub profile. I am dedicated to open-source development, shader 
 
 - [CShade](https://github.com/papadanku/CShade): A ReShade shader library containing various effects.
 - [ReadShade](https://github.com/ReadShade/ReadShade): A documentation site for ReShade.
-- [PythonicEngine](https://github.com/papadanku/PythonicEngine): A Python 3D engine (OpenGL, PyGame, ModernGL, PyGLM).
+- [PythonicEngine](https://github.com/papadanku/PythonicEngine): A basic Python 3D engine for practice (OpenGL, PyGame, ModernGL, PyGLM).
 - [RealityShaders](https://github.com/realitymod/RealityShaders): Shader updates for Project Reality: Battlefield 2.
 
 ### Works
