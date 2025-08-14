@@ -15,7 +15,7 @@ Welcome to my GitHub profile. I am dedicated to open-source development, shader 
 ### Content Creation
 
 - **Hardware:** Sony Alpha 6000, Sony SELP 1650
-- **Software:** Blender Video Sequencer, Davinci Resolve, fre:ac, FFmpeg, OBS Studio, yt-dlp
+- **Software:** Audacity, Davinci Resolve, fre:ac, FFmpeg, GIMP, OBS Studio, yt-dlp
 
 ## Experience
 
