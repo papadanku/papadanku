@@ -5,12 +5,13 @@ Welcome to my GitHub profile. I am dedicated to open-source development, shader 
 
 ## Skills & Technologies
 
-### Software Development
+### Software Experience
 
 - **Languages:** C#, Python, Markdown, reStructuredText, HLSL, GLSL, PowerShell
 - **Version Control:** Git (GitHub, GitLab), Subversion (TortoiseSVN)
 - **Project Management:** Redmine
 - **Documentation:** MkDocs, Sphinx
+- **Artificial Intelligence:** Google Gemini, Gemini-CLI
 
 ### Content Creation
 
@@ -21,7 +22,7 @@ Welcome to my GitHub profile. I am dedicated to open-source development, shader 
 
 ### [Project Reality: Battlefield 2](https://www.realitymod.com/) (2021 - Present)
 
-- Contributed to the development, assist new contributors, and manage community updates.
+- Contributed to the development, assisted new contributors, and managed community updates.
 - Implemented features in HLSL and Python.
 - Maintained projects: RealityDocs, RealityShaders, and RealityUDL.
 
