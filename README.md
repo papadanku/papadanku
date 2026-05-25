@@ -15,7 +15,7 @@ Welcome to my GitHub profile. I am dedicated to open-source development, shader 
 
 ### Content Creation
 
-- **Hardware:** Sony Alpha 6000, Sony SELP 1650
+- **Hardware:** Sony Alpha 6000, Viltrox AF 25/1.7 Air E
 - **Software:** Audacity, Davinci Resolve, fre:ac, FFmpeg, GIMP, OBS Studio, yt-dlp
 
 ## Experience
