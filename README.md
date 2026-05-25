@@ -11,7 +11,7 @@ Welcome to my GitHub profile. I am dedicated to open-source development, shader 
 - **Version Control**: Git (GitHub, GitLab), Subversion (TortoiseSVN)
 - **Project Management**: Redmine
 - **Documentation**: MkDocs, Sphinx
-- **Artificial Intelligence**: Google Gemini, Gemini-CLI, Mistral Vibe, AnythingLLM
+- **Artificial Intelligence**: Google Gemini, Mistral Vibe, opencode, AnythingLLM
 
 ### Content Creation
 
