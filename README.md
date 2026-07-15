@@ -7,16 +7,16 @@ Welcome to my GitHub profile. I am dedicated to open-source development, shader 
 
 ### Software Experience
 
-- **Languages**: C#, Python, Markdown, reStructuredText, HLSL, GLSL, PowerShell
-- **Version Control**: Git (GitHub, GitLab), Subversion (TortoiseSVN)
+- **Languages**: C#; Python; Markdown; reStructuredText; HLSL; GLSL; PowerShell
+- **Version Control**: Git (GitHub, GitLab); Subversion (TortoiseSVN)
 - **Project Management**: Redmine
-- **Documentation**: MkDocs, Sphinx
-- **Artificial Intelligence**: Google Gemini, Mistral Vibe, opencode, AnythingLLM
+- **Documentation**: MkDocs; Sphinx
+- **Artificial Intelligence**: Google Gemini; Mistral Vibe; opencode; AnythingLLM
 
 ### Content Creation
 
-- **Hardware**: Sony Alpha 6000, Viltrox AF 25/1.7 Air E
-- **Software**: Audacity, Davinci Resolve, fre:ac, FFmpeg, GIMP, OBS Studio, yt-dlp
+- **Hardware**: Sony Alpha 6000; Viltrox AF 25/1.7 Air E
+- **Software**: Audacity; Davinci Resolve; fre:ac; FFmpeg; GIMP; OBS Studio; yt-dlp
 
 ## Experience
 
