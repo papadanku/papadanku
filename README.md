@@ -38,7 +38,7 @@ Welcome to my GitHub profile. I am dedicated to open-source development, shader 
 
 ### Works
 
-- [Bilinear Edge Detection on the GPU](https://papadanku.github.io/blog/gpu/edges.html)
-- [Hardware Auto Exposure on the GPU](https://papadanku.github.io/blog/gpu/autoexposure.html)
-- [Multilevel Adaptive Side-Window Bilateral Upsampling on the GPU](https://papadanku.github.io/blog/gpu/bilateral.html)
-- [Adaptive-Weighted Lucas-Kanade Optical Flow on the GPU](https://papadanku.github.io/blog/gpu/opticalflow.html)
+- [Bilinear Edge Detection on the GPU](https://papadanku.github.io/blog/made/edges.html)
+- [Hardware Auto Exposure on the GPU](https://papadanku.github.io/blog/made/autoexposure.html)
+- [Multilevel Adaptive Side-Window Bilateral Upsampling on the GPU](https://papadanku.github.io/blog/made/bilateral.html)
+- [Adaptive-Weighted Lucas-Kanade Optical Flow on the GPU](https://papadanku.github.io/blog/made/lucaskanade.html)
