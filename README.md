@@ -11,13 +11,6 @@ Welcome to my GitHub profile. I am dedicated to open-source development, shader 
 - Implemented features in HLSL and Python.
 - **Maintained**: RealityDocs, RealityShaders, and RealityUDL.
 
-### Works
-
-- [Bilinear Edge Detection on the GPU](https://papadanku.github.io/blog/made/edges.html)
-- [Hardware Auto Exposure on the GPU](https://papadanku.github.io/blog/made/autoexposure.html)
-- [Multilevel Adaptive Side-Window Bilateral Upsampling on the GPU](https://papadanku.github.io/blog/made/bilateral.html)
-- [Adaptive-Weighted Lucas-Kanade Optical Flow on the GPU](https://papadanku.github.io/blog/made/lucaskanade.html)
-
 ### Projects
 
 - **[FrIEP](https://github.com/papadanku/FrIEP)**: Pseudo-open-source tools that I developed for my 925.
@@ -27,6 +20,13 @@ Welcome to my GitHub profile. I am dedicated to open-source development, shader 
 - **[RealityShaders](https://github.com/realitymod/RealityShaders)**: Shader updates for Project Reality: Battlefield 2.
 - **[ShaderCells](https://github.com/papadanku/ShaderCells)**: Resource files for AI agents for learning ReShadeFX and developing ReShadeFX shaders.
 - **[skills](https://github.com/papadanku/skills)**: Agentic AI skills that I use for my projects (ReShade, Project Reality, YouTube).
+
+### Works
+
+- [Bilinear Edge Detection on the GPU](https://papadanku.github.io/blog/made/edges.html)
+- [Hardware Auto Exposure on the GPU](https://papadanku.github.io/blog/made/autoexposure.html)
+- [Multilevel Adaptive Side-Window Bilateral Upsampling on the GPU](https://papadanku.github.io/blog/made/bilateral.html)
+- [Adaptive-Weighted Lucas-Kanade Optical Flow on the GPU](https://papadanku.github.io/blog/made/lucaskanade.html)
 
 ## Skills
 
