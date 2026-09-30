@@ -3,28 +3,20 @@
 
 Welcome to my GitHub profile. I am dedicated to open-source development, shader programming, and content creation. This is an overview of my work.
 
-## Skills & Technologies
-
-### Software Experience
-
-- **Languages**: C#; Python; Markdown; reStructuredText; HLSL; GLSL; PowerShell
-- **Version Control**: Git (GitHub, GitLab); Subversion (TortoiseSVN)
-- **Project Management**: Redmine
-- **Documentation**: MkDocs; Sphinx
-- **Artificial Intelligence**: Google Gemini; Mistral Vibe; opencode; AnythingLLM
-
-### Content Creation
-
-- **Hardware**: Sony Alpha 6000; Viltrox AF 25/1.7 Air E
-- **Software**: Audacity; Davinci Resolve; fre:ac; FFmpeg; GIMP; OBS Studio; yt-dlp
-
 ## Experience
 
 ### [Project Reality: Battlefield 2](https://www.realitymod.com/) (2021 - Present)
 
 - Contributed to the development, assisted new contributors, and managed community updates.
 - Implemented features in HLSL and Python.
-- **Maintained projects**: RealityDocs, RealityShaders, and RealityUDL.
+- **Maintained**: RealityDocs, RealityShaders, and RealityUDL.
+
+### Works
+
+- [Bilinear Edge Detection on the GPU](https://papadanku.github.io/blog/made/edges.html)
+- [Hardware Auto Exposure on the GPU](https://papadanku.github.io/blog/made/autoexposure.html)
+- [Multilevel Adaptive Side-Window Bilateral Upsampling on the GPU](https://papadanku.github.io/blog/made/bilateral.html)
+- [Adaptive-Weighted Lucas-Kanade Optical Flow on the GPU](https://papadanku.github.io/blog/made/lucaskanade.html)
 
 ### Projects
 
@@ -36,9 +28,15 @@ Welcome to my GitHub profile. I am dedicated to open-source development, shader 
 - **[ShaderCells](https://github.com/papadanku/ShaderCells)**: Resource files for AI agents for learning ReShadeFX and developing ReShadeFX shaders.
 - **[skills](https://github.com/papadanku/skills)**: Agentic AI skills that I use for my projects (ReShade, Project Reality, YouTube).
 
-### Works
+## Skills
 
-- [Bilinear Edge Detection on the GPU](https://papadanku.github.io/blog/made/edges.html)
-- [Hardware Auto Exposure on the GPU](https://papadanku.github.io/blog/made/autoexposure.html)
-- [Multilevel Adaptive Side-Window Bilateral Upsampling on the GPU](https://papadanku.github.io/blog/made/bilateral.html)
-- [Adaptive-Weighted Lucas-Kanade Optical Flow on the GPU](https://papadanku.github.io/blog/made/lucaskanade.html)
+### Development
+
+- **Programming Languages**: C#, GLSL, HLSL, Markdown, PowerShell, Python, reStructuredText
+- **Development Tools**: Git, GitHub, GitLab, MkDocs, Redmine, Sphinx, TortoiseSVN
+- **AI Tools**: AnythingLLM, Claude.ai, Google Gemini, Mistral Vibe, OpenCode
+
+### Content Creation
+
+- **Hardware**: Sony Alpha 6000, Viltrox AF 25/1.7 Air E
+- **Software**: Audacity, Davinci Resolve, fre:ac, FFmpeg, GIMP, OBS Studio, yt-dlp
